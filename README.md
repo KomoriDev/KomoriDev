@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [NoneBot](https://github.com/nonebot).
 - 🌱 I’m currently learning: Vue, Encapsulation interface
-- 📫 How to reach me: [QQ](http://wpa.qq.com/msgrd?v=3&uin=1570915261&site=qq&menu=yes).
+- 📫 How to reach me: [QQ](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes).
 
 
 🌟 **My Skills** 
