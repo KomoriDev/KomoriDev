@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2010%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,5 +60,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 20/02/2023 01:06:56 UTC
+ Last Updated on 21/02/2023 01:08:23 UTC
 <!--END_SECTION:waka-->
