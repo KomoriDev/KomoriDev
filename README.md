@@ -26,19 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ██████████████░░░░░░░░░░░   55.15 % 
-Other                    1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              1 hr 43 mins        ██████████████░░░░░░░░░░░   55.15 % 
-Browser                  1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.85 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-housing_nav              3 hrs 7 mins        █████████████████████████   99.92 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -52,5 +49,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 26/02/2023 01:12:16 UTC
+ Last Updated on 27/02/2023 01:05:53 UTC
 <!--END_SECTION:waka-->
