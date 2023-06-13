@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -55,5 +55,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2023 01:10:32 UTC
+ Last Updated on 13/06/2023 01:06:43 UTC
 <!--END_SECTION:waka-->
