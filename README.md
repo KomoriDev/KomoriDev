@@ -26,16 +26,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   36 mins             ███████████████████░░░░░░   74.70 % 
+YAML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sorabot                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,5 +52,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2023 01:16:57 UTC
+ Last Updated on 08/07/2023 01:15:31 UTC
 <!--END_SECTION:waka-->
