@@ -20,24 +20,27 @@
 
 
 <!-- tags -->
-> 开源社区账号 <br>
-> [![GitHub](https://img.shields.io/badge/GitHub-mute23-FF6A6A?style=flat-square&logo=github)](https://github.com/mute23-code)
-> <br> 
-> 社交平台账号 <br>
-> [![Telegram](https://img.shields.io/badge/Telegram-@mute-26A5E4?style=flat-square&logo=telegram)](https://t.me/mute231010)
-> [![Discord](https://img.shields.io/badge/Discord-@mute23-5A67F2?style=flat-square&logo=discord)](https://discord.com/channels/@mute23)
-> [![QQ](https://img.shields.io/badge/QQ-@mute23-FB7299?style=flat-square&logo=QQ)]([https://discord.com/channels/@mute23](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes))
-> <br>
-> 电子邮箱 <br>
-> [![Mail](https://img.shields.io/badge/GMail-mute231010@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mute231010@gmail.com)
-> [![Mail](https://img.shields.io/badge/QQMail-mute23@qq.com-EA4335?style=flat-square)](mailto:mute23@qq.com)
+开源社区账号 <br>
+[![GitHub](https://img.shields.io/badge/GitHub-mute23-FF6A6A?style=flat-square&logo=github)](https://github.com/mute23-code)
+<br> 
+社交平台账号 <br>
+[![Telegram](https://img.shields.io/badge/Telegram-@mute-26A5E4?style=flat-square&logo=telegram)](https://t.me/mute231010)
+[![Discord](https://img.shields.io/badge/Discord-@mute23-5A67F2?style=flat-square&logo=discord)](https://discord.com/channels/@mute23)
+[![Bilibili](https://img.shields.io/badge/Bilibili-@mute23-FC88A9?style=flat-square&logo=bilibili)](https://space.bilibili.com/2019044357)
+[![QQ](https://img.shields.io/badge/QQ-@mute23-2283FF?style=flat-square&logo=QQ)](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes)
+<br>
+电子邮箱 <br>
+[![Mail](https://img.shields.io/badge/GMail-mute231010@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mute231010@gmail.com)
+[![Mail](https://img.shields.io/badge/QQMail-mute23@qq.com-EA4335?style=flat-square)](mailto:mute23@qq.com)
 
 
 🌟 **My Skills** 
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2056%20mins-blue)
