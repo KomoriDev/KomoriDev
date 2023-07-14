@@ -1,7 +1,7 @@
 <!-- background image -->
 <img align="right" src="./src/109014039.jpg" width='380px' alt="老婆">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+mute.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Komorebi.)](https://git.io/typing-svg)
 ---
 
 <!-- Section : Visitors & last-commit & followers -->
@@ -21,7 +21,7 @@
 
 <!-- tags -->
 开源社区账号 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-mute23-FF6A6A?style=flat-square&logo=github)](https://github.com/mute23-code)
+[![GitHub](https://img.shields.io/badge/GitHub-Komorebi-FF6A6A?style=flat-square&logo=github)](https://github.com/KomoriDev)
 <br> 
 社交平台账号 <br>
 [![Telegram](https://img.shields.io/badge/Telegram-@mute-26A5E4?style=flat-square&logo=telegram)](https://t.me/mute231010)
