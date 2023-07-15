@@ -27,7 +27,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@mute-26A5E4?style=flat-square&logo=telegram)](https://t.me/mute231010)
 [![Discord](https://img.shields.io/badge/Discord-@mute23-5A67F2?style=flat-square&logo=discord)](https://discord.com/channels/@mute23)
 [![Bilibili](https://img.shields.io/badge/Bilibili-@mute23-FC88A9?style=flat-square&logo=bilibili)](https://space.bilibili.com/2019044357)
-[![QQ](https://img.shields.io/badge/QQ-@mute23-2283FF?style=flat-square&logo=QQ)](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes)
+[![QQ](https://img.shields.io/badge/QQ-@蓝桉-2283FF?style=flat-square&logo=QQ)](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes)
 <br>
 电子邮箱 <br>
 [![Mail](https://img.shields.io/badge/GMail-mute231010@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mute231010@gmail.com)
@@ -50,20 +50,20 @@
 <table> <!-- template by EpicMo -->
   <tr>
     <th>
-      <img alt="Mute's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mute23-code&show_icons=true&theme=transparent&hide_border=true" align="center" />
+      <img alt="Komorebi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KomoriDev&show_icons=true&theme=transparent&hide_border=true" align="center" />
     </th>
     <th>
-      <img alt="Mute's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mute23-code&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+      <img alt="Komorebi's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KomoriDev&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
     </th>
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="Mute's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mute23&layout=compact" align="center"/>
+      <img alt="Komorebi's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Komorebi&layout=compact" align="center"/>
     </td>
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="Mute's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mute23-code&color=555555&bg_color=F6F8FA&line=BFD8F9&point=4C91F0&theme=dracula" align="center"/>
+      <img alt="Komorebi's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KomoriDev&color=555555&bg_color=F6F8FA&line=BFD8F9&point=4C91F0&theme=dracula" align="center"/>
     </td>
   </tr>
 </table>
