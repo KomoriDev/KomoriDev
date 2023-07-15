@@ -5,9 +5,9 @@
 ---
 
 <!-- Section : Visitors & last-commit & followers -->
-![Visitors](https://count.getloli.com/get/@:mute23-code)  
-![lastcommit](https://img.shields.io/github/last-commit/mute23-code/mute23-code?logo=GitHub&style=flat-square)
-![followers](https://img.shields.io/github/followers/mute23-code?logo=Github&style=flat-square)
+![Visitors](https://count.getloli.com/get/@:KomoriDev)  
+![lastcommit](https://img.shields.io/github/last-commit/KomoriDev/KomoriDev?logo=GitHub&style=flat-square)
+![followers](https://img.shields.io/github/followers/KomoriDev?logo=Github&style=flat-square)
 -----
 
 >_Thanks to time, thank you for all the encounters._ <br>
