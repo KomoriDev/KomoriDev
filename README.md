@@ -25,8 +25,8 @@
 <br> 
 社交平台账号 <br>
 [![Telegram](https://img.shields.io/badge/Telegram-@mute-26A5E4?style=flat-square&logo=telegram)](https://t.me/mute231010)
-[![Discord](https://img.shields.io/badge/Discord-@mute23-5A67F2?style=flat-square&logo=discord)](https://discord.com/channels/@mute23)
-[![Bilibili](https://img.shields.io/badge/Bilibili-@mute23-FC88A9?style=flat-square&logo=bilibili)](https://space.bilibili.com/2019044357)
+[![Discord](https://img.shields.io/badge/Discord-@Komorebi-5A67F2?style=flat-square&logo=discord)](https://discord.com/channels/@komorebi_23)
+[![Bilibili](https://img.shields.io/badge/Bilibili-@KomoriDev-FC88A9?style=flat-square&logo=bilibili)](https://space.bilibili.com/2019044357)
 [![QQ](https://img.shields.io/badge/QQ-@蓝桉-2283FF?style=flat-square&logo=QQ)](http://wpa.qq.com/msgrd?v=3&uin=2740324073&site=qq&menu=yes)
 <br>
 电子邮箱 <br>
