@@ -1,5 +1,5 @@
 <!-- background image -->
-<img align="right" src="https://ghproxy.com/https://raw.githubusercontent.com/KomoriDev/KomoriDev/main/src/1689663632.jpg" width='380px' alt="老婆">
+<img align="right" src="https://ghproxy.com/https://raw.githubusercontent.com/KomoriDev/KomoriDev/main/src/image.jpg" width='45%' alt="老婆">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Komorebi.)](https://git.io/typing-svg)
 ---
@@ -41,29 +41,3 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2056%20mins-blue)
-
-
-🐟 **My Fishing**
-<table> <!-- template by EpicMo -->
-  <tr>
-    <th>
-      <img alt="Komorebi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KomoriDev&show_icons=true&theme=transparent&hide_border=true" align="center" />
-    </th>
-    <th>
-      <img alt="Komorebi's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KomoriDev&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
-    </th>
-  </tr>
-  <tr>
-    <td colspan=2>
-      <img alt="Komorebi's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Komorebi&layout=compact" align="center"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2>
-      <img alt="Komorebi's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KomoriDev&color=555555&bg_color=F6F8FA&line=BFD8F9&point=4C91F0&theme=dracula" align="center"/>
-    </td>
-  </tr>
-</table>
