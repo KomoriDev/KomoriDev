@@ -41,3 +41,16 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=fff)
+
+📈 **My Stats**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110453675&image_size=auto&color_scheme=dark"
+      width="771" height="auto">
+    <img alt="Dashboard stats"
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110453675&image_size=auto&color_scheme=light"
+      width="771" height="auto">
+  </picture>
+</p>
